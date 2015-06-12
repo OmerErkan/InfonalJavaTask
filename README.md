@@ -19,8 +19,8 @@ Download the code and export to in eclipse  as an Maven project.
 
 #           References
 Mongodb : https://docs.mongodb.org/getting-started/java/
-Spring Framework : http://docs.spring.io/docs/Spring-MVC-step-by-step/
-Maven : http://www.tutorialspoint.com/maven/
+Spring Framework : http://docs.spring.io/docs/Spring-MVC-step-by-step/ ,
+Maven : http://www.tutorialspoint.com/maven/ , 
 JavaScript : http://www.w3schools.com/js/
 
 #           License
