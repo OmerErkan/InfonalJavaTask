@@ -1,4 +1,4 @@
-#                    INFONAL JAVA DEVELOPER 
+#                    INFONAL JAVA DEVELOPER QUESTION
 
 This is a dynamic web project that is about user managment application. 
 In this project, users can be added, deleted, and updated to in database and showed them in browser.
