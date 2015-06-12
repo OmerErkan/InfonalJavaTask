@@ -1,7 +1,7 @@
 #                    INFONAL JAVA DEVELOPER 
 
 This is a dynamic web project that is about user managment application. 
-In this project, users can be added, deleted, and updtaded to in database and showed them in browser.
+In this project, users can be added, deleted, and updated to in database and showed them in browser.
 
 
 #                   GENERAL REQUIREMENTS
